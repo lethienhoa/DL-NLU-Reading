@@ -1,4 +1,4 @@
-# Deep Learning and Natural Language Understanding Reading Group at Synalp team, Loria
+### Deep Learning and Natural Language Understanding Reading Group at Synalp team, Loria
 
 |Date |     Paper        | Presenter           |
 |-------------|-------------|-------------|
