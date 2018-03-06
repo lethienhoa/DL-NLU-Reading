@@ -29,7 +29,6 @@
 | | | `- Mobile devices` |
 | | | `by Knowledge Distillation`: Yoon Kim, Alexander M. Rush. **Sequence-level knowledge distillation**. EMNLP 2016 |
 | | | `- Beyond Maximum Likelihood` |
-| | | `Teacher Forcing`: Ronald J. Williams , David Zipser. **A Learning Algorithm for Continually Running Fully Recurrent Neural Networks**. Neural Computation 1989 |
 | | | `Scheduled sampling (Curriculum Learning)`: Samy Bengio, Oriol Vinyals, Navdeep Jaitly, Noam Shazeer. **Scheduled sampling for sequence prediction with recurrent Neural networks**. NIPS 2015 |
 | | | `Professor Forcing (GAN)`: Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, Yoshua Bengio. **Professor Forcing: A New Algorithm for Training Recurrent Networks**. NIPS 2016 |
 | | | `MIXER (REINFORCE)`: Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba. **Sequence Level Training with Recurrent Neural Networks**. ICLR 2016 |
