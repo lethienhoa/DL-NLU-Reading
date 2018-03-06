@@ -23,7 +23,12 @@
 | | | `- On Data aspect` |
 | | | `by using Monolingual data`: Rico Sennrich, Barry Haddow, and Alexandra Birch. **Improving Neural Machine Translation Models with Monolingual Data**. ACL 2016 |
 | | | `by learning Multi-lingual and combining Multi-task`: Thang Luong, Quoc Le, Ilya Sutskever, Oriol Vinyals, Lukasz Kaiser. **Multi-task sequence to sequence learning**. ICLR 2016 |
-| 29/03/2018 | Hoa | `Algorithms for training Recurrent Neural Networks:` |
+| 29/03/2018 | Hoa | `Futures of NMT:` |
+| | | `- Larger context` |
+| | | `by Tracking states over time`: Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville, Yoshua Bengio. **A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues**. AAAI 2015 |
+| | | `- Mobile devices` |
+| | | `by Knowledge Distillation`: Yoon Kim, Alexander M. Rush. **Sequence-level knowledge distillation**. EMNLP 2016 |
+| | | `- Beyond Maximum Likelihood` |
 | | | `Teacher Forcing`: Ronald J. Williams , David Zipser. **A Learning Algorithm for Continually Running Fully Recurrent Neural Networks**. Neural Computation 1989 |
 | | | `Scheduled sampling (Curriculum Learning)`: Samy Bengio, Oriol Vinyals, Navdeep Jaitly, Noam Shazeer. **Scheduled sampling for sequence prediction with recurrent Neural networks**. NIPS 2015 |
 | | | `Professor Forcing (GAN)`: Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, Yoshua Bengio. **Professor Forcing: A New Algorithm for Training Recurrent Networks**. NIPS 2016 |
