@@ -7,6 +7,11 @@
 | | | `More reading about limitations of sequence-to-sequence model:` |
 | | | Philipp Koehn and Rebecca Knowles. **Six Challenges for Neural Machine Translation**. First Workshop on Neural Machine Translation 2017 |
 | | | Christopher Manning, Kyunghuyn Cho, Thang Luong. **Neural Machine Translation - Tutorial**. ACL 2016 |
+| | | `Advancing sequence-to-sequence model:` |
+| | | `On Vocabulary aspect`: Ronald J. Williams , David Zipser. **A Learning Algorithm for Continually Running Fully Recurrent Neural Networks**. Neural Computation 1989 |
+| | | `On Memory aspect`: Ronald J. Williams , David Zipser. **A Learning Algorithm for Continually Running Fully Recurrent Neural Networks**. Neural Computation 1989 |
+| | | `On Language Complexity aspect`: Ronald J. Williams , David Zipser. **A Learning Algorithm for Continually Running Fully Recurrent Neural Networks**. Neural Computation 1989 |
+| | | `On Data aspect`: Ronald J. Williams , David Zipser. **A Learning Algorithm for Continually Running Fully Recurrent Neural Networks**. Neural Computation 1989 |
 | 15/03/2018 | Hoa | `Algorithms for training Recurrent Neural Networks:` |
 | | | `Teacher Forcing`: Ronald J. Williams , David Zipser. **A Learning Algorithm for Continually Running Fully Recurrent Neural Networks**. Neural Computation 1989 |
 | | | `Scheduled sampling (Curriculum Learning)`: Samy Bengio, Oriol Vinyals, Navdeep Jaitly, Noam Shazeer. **Scheduled sampling for sequence prediction with recurrent Neural networks**. NIPS 2015 |
