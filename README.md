@@ -8,7 +8,11 @@
 | | | Philipp Koehn and Rebecca Knowles. **Six Challenges for Neural Machine Translation**. First Workshop on Neural Machine Translation 2017 |
 | | | Christopher Manning, Kyunghuyn Cho, Thang Luong. **Neural Machine Translation - Tutorial**. ACL 2016 |
 | | | `Advancing sequence-to-sequence model:` |
-| | | `On Vocabulary aspect`: Ronald J. Williams , David Zipser. **A Learning Algorithm for Continually Running Fully Recurrent Neural Networks**. Neural Computation 1989 |
+| | | `On Vocabulary aspect` |
+| | | `by Softmax scaling`: Sébastien Jean, Kyunghyun Cho, Roland Memisevic, Yoshua Bengio. **On Using Very
+Large Target Vocabulary for Neural Machine Translation**. ACL 2015 |
+| | | `by Copy Mechanism`: Thang Luong, Ilya Sutskever, Quoc Le, Oriol Vinyals, Wojciech Zaremba. **Addressing
+the Rare Word Problem in Neural Machine Translation**. ACL 2015 |
 | | | `On Memory aspect`: Ronald J. Williams , David Zipser. **A Learning Algorithm for Continually Running Fully Recurrent Neural Networks**. Neural Computation 1989 |
 | | | `On Language Complexity aspect`: Ronald J. Williams , David Zipser. **A Learning Algorithm for Continually Running Fully Recurrent Neural Networks**. Neural Computation 1989 |
 | | | `On Data aspect`: Ronald J. Williams , David Zipser. **A Learning Algorithm for Continually Running Fully Recurrent Neural Networks**. Neural Computation 1989 |
