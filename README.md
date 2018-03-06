@@ -4,10 +4,10 @@
 |-------------|-------------|-----------------|
 | 01/03/2018 | Hoa | Adams Wei Yu, Hongrae Lee, Quoc V. Le. **Learning to Skim Text**. ACL 2017 |
 | 08/03/2018 | Claire | Abigail See, Peter J. Liu, Christopher D. Manning. **Get To The Point: Summarization with Pointer-Generator Networks**. ACL 2017 |
-| | | `More reading about limitations of sequence-to-sequence model:` |
+| | | `Limitations of Neural Machine Translation (NMT):` |
 | | | Philipp Koehn and Rebecca Knowles. **Six Challenges for Neural Machine Translation**. First Workshop on Neural Machine Translation 2017 |
 | | | Christopher Manning, Kyunghuyn Cho, Thang Luong. **Neural Machine Translation - Tutorial**. ACL 2016 |
-| | | `Advancing sequence-to-sequence model:` |
+| | | `Advancing NMT:` |
 | | | `- On Vocabulary aspect` |
 | | | `by Softmax scaling`: Sébastien Jean, Kyunghyun Cho, Roland Memisevic, Yoshua Bengio. **On Using Very Large Target Vocabulary for Neural Machine Translation**. ACL 2015 |
 | | | `by Copy Mechanism`: Thang Luong, Ilya Sutskever, Quoc Le, Oriol Vinyals, Wojciech Zaremba. **Addressing the Rare Word Problem in Neural Machine Translation**. ACL 2015 |
