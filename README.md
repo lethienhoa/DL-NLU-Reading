@@ -4,6 +4,9 @@
 |-------------|-------------|-----------------|
 | 01/03/2018 | Hoa | Adams Wei Yu, Hongrae Lee, Quoc V. Le. **Learning to Skim Text**. ACL 2017 |
 | 08/03/2018 | Claire | Abigail See, Peter J. Liu, Christopher D. Manning. **Get To The Point: Summarization with Pointer-Generator Networks**. ACL 2017 |
+| | | *More Reading:* |
+| | | Philipp Koehn and Rebecca Knowles. **Six Challenges for Neural Machine Translation**. First Workshop on Neural Machine Translation 2017 |
+| | | Philipp Koehn and Rebecca Knowles. **Neural Machine Translation - Tutorial**. ACL 2016 |
 | 15/03/2018 | Hoa | Algorithms for training Recurrent Neural Networks: |
 | | | **Teacher Forcing**: Ronald J. Williams , David Zipser. **A Learning Algorithm for Continually Running Fully Recurrent Neural Networks**. Neural Computation 1989 |
 | | | **Scheduled sampling (Curriculum Learning)**: Samy Bengio, Oriol Vinyals, Navdeep Jaitly, Noam Shazeer. **Scheduled sampling for sequence prediction with recurrent Neural networks**. NIPS 2015 |
