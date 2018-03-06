@@ -4,7 +4,7 @@
 |-------------|-------------|-----------------|
 | 01/03/2018 | Hoa | Adams Wei Yu, Hongrae Lee, Quoc V. Le. **Learning to Skim Text**. ACL 2017 |
 | 08/03/2018 | Claire | Abigail See, Peter J. Liu, Christopher D. Manning. **Get To The Point: Summarization with Pointer-Generator Networks**. ACL 2017 |
-| | | __`More reading about limitations of sequence-to-sequence model:`__ |
+| | | `More reading about limitations of sequence-to-sequence model:` |
 | | | Philipp Koehn and Rebecca Knowles. **Six Challenges for Neural Machine Translation**. First Workshop on Neural Machine Translation 2017 |
 | | | Christopher Manning, Kyunghuyn Cho, Thang Luong. **Neural Machine Translation - Tutorial**. ACL 2016 |
 | 15/03/2018 | Hoa | Algorithms for training Recurrent Neural Networks: |
