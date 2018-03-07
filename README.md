@@ -8,6 +8,7 @@
 | | | Alexander M. Rush, Sumit Chopra, Jason Weston. **A Neural Attention Model for Abstractive Sentence Summarization**. EMNLP 2015 |
 | | | Ramesh Nallapati, Bowen Zhou, Cicero Nogueira dos santos, Caglar Gulcehre, Bing Xiang. **Abstractive Text Summarization Using Sequence-to-Sequence RNNs and Beyond**. CoNLL 2016 |
 | | | Romain Paulus, Caiming Xiong, Richard Socher. **A Deep Reinforced Model for Abstractive Summarization**. Arxiv 2017 |
+| | | Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou. **Selective Encoding for Abstractive Sentence Summarization**. ACL 2017 |
 | 15/03/2018 | Hoa | `Limitations of Neural Machine Translation (NMT):` |
 | | | Philipp Koehn and Rebecca Knowles. **Six Challenges for Neural Machine Translation**. First Workshop on Neural Machine Translation 2017 |
 | | | Christopher Manning, Kyunghuyn Cho, Thang Luong. **Neural Machine Translation - Tutorial**. ACL 2016 |
@@ -23,7 +24,7 @@
 | | | `- On Data aspect` |
 | | | `by using Monolingual data`: Rico Sennrich, Barry Haddow, and Alexandra Birch. **Improving Neural Machine Translation Models with Monolingual Data**. ACL 2016 |
 | | | `by learning Multi-lingual and combining Multi-task`: Thang Luong, Quoc Le, Ilya Sutskever, Oriol Vinyals, Lukasz Kaiser. **Multi-task sequence to sequence learning**. ICLR 2016 |
-| 29/03/2018 | Hoa | `Futures of NMT:` |
+| 29/03/2018 | Hoa | `Next frontiers of NMT:` |
 | | | `- Larger context` |
 | | | `by Tracking states over time`: Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville, Yoshua Bengio. **A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues**. AAAI 2015 |
 | | | `- Mobile devices` |
