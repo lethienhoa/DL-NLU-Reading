@@ -4,9 +4,7 @@
 |-------------|-------------|-----------------|
 | 01/03/2018 | Hoa | Adams Wei Yu, Hongrae Lee, Quoc V. Le. **Learning to Skim Text**. ACL 2017 |
 | 08/03/2018 | Claire | Abigail See, Peter J. Liu, Christopher D. Manning. **Get To The Point: Summarization with Pointer-Generator Networks**. ACL 2017 |
-| | | `Overview of applying seq2seq model for Abstractive Summarization task` |
-| | | Alexander M. Rush, Sumit Chopra, Jason Weston. **A Neural Attention Model for Abstractive Sentence Summarization**. EMNLP 2015 |
-| | | Ramesh Nallapati, Bowen Zhou, Cicero Nogueira dos santos, Caglar Gulcehre, Bing Xiang. **Abstractive Text Summarization Using Sequence-to-Sequence RNNs and Beyond**. CoNLL 2016 |
+| | | `More reading about how to apply seq2seq model on Abstractive Summarization task` |
 | | | Romain Paulus, Caiming Xiong, Richard Socher. **A Deep Reinforced Model for Abstractive Summarization**. Arxiv 2017 |
 | | | Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou. **Selective Encoding for Abstractive Sentence Summarization**. ACL 2017 |
 | | | Piji Li, Wai Lam, Lidong Bing, Zihao Wang. **Deep Recurrent Generative Decoder for Abstractive Text Summarization**. EMNLP 2017 |
