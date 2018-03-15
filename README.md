@@ -15,6 +15,7 @@
 | | | `- On Vocabulary aspect` |
 | | | `by Softmax scaling`: Sébastien Jean, Kyunghyun Cho, Roland Memisevic, Yoshua Bengio. **On Using Very Large Target Vocabulary for Neural Machine Translation**. ACL 2015 |
 | | | `by Copy Mechanism`: Thang Luong, Ilya Sutskever, Quoc Le, Oriol Vinyals, Wojciech Zaremba. **Addressing the Rare Word Problem in Neural Machine Translation**. ACL 2015 |
+| | | `by byte-pair encoding`: Rico Sennrich, Barry Haddow, Alexandra Birch. **Neural Machine Translation of Rare Words with Subword Units**. ACL 2016 |
 | | | `- On Memory aspect` |
 | | | `by Global and Local Attention`: Thang Luong, Hieu Pham, and Chris Manning. **Effective Approaches to Attention-based Neural Machine Translation**. EMNLP 2015 |
 | | | `by Coverage mechanism`: Zhaopeng Tu, Zhengdong Lu, Yang Liu, Xiaohua Liu and Hang Li. **Modeling coverage for neural machine translation**. ACL 2016 |
