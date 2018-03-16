@@ -29,7 +29,7 @@
 | | | `Dual learning`: He et al., **Dual Learning for Machine Translation**. NIPS 2016 |
 | | | `Deliberation Networks`: Xia et al., **Deliberation Networks: Sequence Generation Beyond One-Pass Decoding**. NIPS 2017 |
 | | | `Joint training`: Zhang et al., **Joint Training for Neural Machine Translation Models with Monolingual Data**. AAAI 2018 |
-| 29/03/2018 | Hoa | `Autoencoders for NLP` |
+| 29/03/2018 | Hoa | `Learning language representation with Autoencoders:` |
 | | | `(CNN-DCNN) Autoencoder (AE)`: Yizhe Zhang, Dinghan Shen, Guoyin Wang, Zhe Gan, Ricardo Henao, Lawrence Carin. **Deconvolutional Paragraph Representation Learning**. NIPS 2017 |
 | | | `(Sequential) Denoising Autoencoder (DAE)`: Felix Hill, Kyunghyun Cho, Anna Korhonen. **Learning Distributed Representations of Sentences from Unlabelled Data**. NAACL-HLT 2016 |
 | | | `Variational Autoencoder (VAE)`: Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio. **Generating Sentences from a Continuous Space**. CoNLL 2016 |
