@@ -26,7 +26,7 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `- On Data aspect` |
 | | | `by using Monolingual data`: Rico Sennrich, Barry Haddow, and Alexandra Birch. **Improving Neural Machine Translation Models with Monolingual Data**. ACL 2016 |
 | | | `by learning Multi-lingual and combining Multi-task`: Thang Luong, Quoc Le, Ilya Sutskever, Oriol Vinyals, Lukasz Kaiser. **Multi-task sequence to sequence learning**. ICLR 2016 |
-| 22/03/2018 | Hoa | Hassan et al., **Achieving Human Parity on Automatic Chinese to English News Translation**. Microsoft research preprint 2018. [Summary](https://docs.google.com/presentation/d/1t8K2t6tmIsB5-6cKDh6Wp7OT1sABTGVx2dKEqf1r8U0/edit?usp=sharing) |
+| 22/03/2018 | Hoa | Hassan et al., **Achieving Human Parity on Automatic Chinese to English News Translation**. Microsoft research preprint 2018. [[Summary slides]](https://docs.google.com/presentation/d/1t8K2t6tmIsB5-6cKDh6Wp7OT1sABTGVx2dKEqf1r8U0/edit?usp=sharing) |
 | | | `3 major components/techniques:` |
 | | | `Dual learning`: He et al., **Dual Learning for Machine Translation**. NIPS 2016 |
 | | | `Deliberation Networks`: Xia et al., **Deliberation Networks: Sequence Generation Beyond One-Pass Decoding**. NIPS 2017 |
