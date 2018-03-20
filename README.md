@@ -34,12 +34,12 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `Adversarial Autoencoder (AAE)`: |
 | | | Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. **Adversarial Autoencoders**. ICLR 2016 |
 | | | Takeru Miyato, Andrew M. Dai, Ian Goodfellow. **Adversarial Training Methods for Semi-Supervised Text Classification**. ICLR 2017 |
-| 05/04/2018 | | `Neural Abstractive Summarization` |
-| | | `Deterministic vector` |
+| 05/04/2018 | | `Neural Abstractive Text Summarization` |
+| | | `Deterministic vector:` |
 | | | Romain Paulus, Caiming Xiong, Richard Socher. **A Deep Reinforced Model for Abstractive Summarization**. Arxiv 2017 |
 | | | Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou. **Selective Encoding for Abstractive Sentence Summarization**. ACL 2017 |
 | | | Noah Weber, Leena Shekhar, Niranjan Balasubramanian, Kyunghyun Cho. **Controlling Decoding for More Abstractive Summaries with Copy-Based Networks**. Arxiv 2018 |
-| | | `Stochastic vector` |
+| | | `Stochastic vector:` |
 | | | Yishu Miao, Phil Blunsom. **Language as a Latent Variable: Discrete Generative Models for Sentence Compression**. EMNLP 2016 |
 | | | Piji Li, Wai Lam, Lidong Bing, Zihao Wang. **Deep Recurrent Generative Decoder for Abstractive Text Summarization**. EMNLP 2017 |
 | 12/04/2018 | Hoa | `Next frontiers of NMT:` |
