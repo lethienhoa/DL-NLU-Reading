@@ -27,7 +27,7 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `Dual learning`: He et al., **Dual Learning for Machine Translation**. NIPS 2016 |
 | | | `Deliberation Networks`: Xia et al., **Deliberation Networks: Sequence Generation Beyond One-Pass Decoding**. NIPS 2017 |
 | | | `Joint training`: Zhang et al., **Joint Training for Neural Machine Translation Models with Monolingual Data**. AAAI 2018 |
-| 29/03/2018 | Hoa | `Learning language representation with Autoencoders (AEs):` |
+| 29/03/2018 | | `Learning language representation with Autoencoders (AEs):` |
 | | | `(CNN-DCNN) Autoencoder (AE)`: Yizhe Zhang, Dinghan Shen, Guoyin Wang, Zhe Gan, Ricardo Henao, Lawrence Carin. **Deconvolutional Paragraph Representation Learning**. NIPS 2017 |
 | | | `(Sequential) Denoising Autoencoder (DAE)`: Felix Hill, Kyunghyun Cho, Anna Korhonen. **Learning Distributed Representations of Sentences from Unlabelled Data**. NAACL-HLT 2016 |
 | | | `Variational Autoencoder (VAE)`: Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio. **Generating Sentences from a Continuous Space**. CoNLL 2016 |
@@ -42,7 +42,7 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `Stochastic vector:` |
 | | | Yishu Miao, Phil Blunsom. **Language as a Latent Variable: Discrete Generative Models for Sentence Compression**. EMNLP 2016 |
 | | | Piji Li, Wai Lam, Lidong Bing, Zihao Wang. **Deep Recurrent Generative Decoder for Abstractive Text Summarization**. EMNLP 2017 |
-| 12/04/2018 | Hoa | `Next frontiers of NMT:` |
+| 12/04/2018 | | `Next frontiers of NMT:` |
 | | | `- Larger context` |
 | | | `by Tracking states over time`: Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville, Yoshua Bengio. **A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues**. AAAI 2015 |
 | | | `- Mobile devices` |
