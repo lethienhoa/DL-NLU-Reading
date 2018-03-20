@@ -6,10 +6,6 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 |-------------|-------------|-----------------|
 | 01/03/2018 | Hoa | Adams Wei Yu, Hongrae Lee, Quoc V. Le. **Learning to Skim Text**. ACL 2017 |
 | 08/03/2018 | Claire | Abigail See, Peter J. Liu, Christopher D. Manning. **Get To The Point: Summarization with Pointer-Generator Networks**. ACL 2017 |
-| | | `Other approach to apply seq2seq model for Abstractive Summarization task` |
-| | | Romain Paulus, Caiming Xiong, Richard Socher. **A Deep Reinforced Model for Abstractive Summarization**. Arxiv 2017 |
-| | | Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou. **Selective Encoding for Abstractive Sentence Summarization**. ACL 2017 |
-| | | Piji Li, Wai Lam, Lidong Bing, Zihao Wang. **Deep Recurrent Generative Decoder for Abstractive Text Summarization**. EMNLP 2017 |
 | 15/03/2018 | Hoa | `Limitations of Neural Machine Translation (NMT):` |
 | | | Philipp Koehn and Rebecca Knowles. **Six Challenges for Neural Machine Translation**. First Workshop on Neural Machine Translation 2017 |
 | | | Christopher Manning, Kyunghuyn Cho, Thang Luong. **Neural Machine Translation - Tutorial**. ACL 2016 |
@@ -38,7 +34,15 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `Adversarial Autoencoder (AAE)`: |
 | | | Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. **Adversarial Autoencoders**. ICLR 2016 |
 | | | Takeru Miyato, Andrew M. Dai, Ian Goodfellow. **Adversarial Training Methods for Semi-Supervised Text Classification**. ICLR 2017 |
-| 05/04/2018 | Hoa | `Next frontiers of NMT:` |
+| 05/04/2018 | | `Neural Abstractive Summarization` |
+| | | `Deterministic vector` |
+| | | Romain Paulus, Caiming Xiong, Richard Socher. **A Deep Reinforced Model for Abstractive Summarization**. Arxiv 2017 |
+| | | Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou. **Selective Encoding for Abstractive Sentence Summarization**. ACL 2017 |
+| | | Noah Weber, Leena Shekhar, Niranjan Balasubramanian, Kyunghyun Cho. **Controlling Decoding for More Abstractive Summaries with Copy-Based Networks**. Arxiv 2018 |
+| | | `Stochastic vector` |
+| | | Yishu Miao, Phil Blunsom. **Language as a Latent Variable: Discrete Generative Models for Sentence Compression**. EMNLP 2016 |
+| | | Piji Li, Wai Lam, Lidong Bing, Zihao Wang. **Deep Recurrent Generative Decoder for Abstractive Text Summarization**. EMNLP 2017 |
+| 12/04/2018 | Hoa | `Next frontiers of NMT:` |
 | | | `- Larger context` |
 | | | `by Tracking states over time`: Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville, Yoshua Bengio. **A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues**. AAAI 2015 |
 | | | `- Mobile devices` |
