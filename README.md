@@ -28,6 +28,7 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `Dual unsupervised learning` He et al., **Dual Learning for Machine Translation**. NIPS 2016 |
 | | | `Dual supervised learning` Xia et al., **Dual Supervised Learning**. ICML 2017 |
 | | | `- Joint training of S2T and T2S:` |
+| | | Gulcehre et al., **On Using Monolingual Corpora in Neural Machine Translation**. Arxiv 2015 |
 | | | `Back translation` Sennrich et al., **Improving Neural Machine Translation Models with Monolingual Data**. ACL 2016 |
 | | | `Joint training` Zhang et al., **Joint Training for Neural Machine Translation Models with Monolingual Data**. AAAI 2018 |
 | | | `- Deliberation Networks` Xia et al., **Deliberation Networks: Sequence Generation Beyond One-Pass Decoding**. NIPS 2017 |
@@ -55,3 +56,6 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `Scheduled sampling (Curriculum Learning)`: Samy Bengio, Oriol Vinyals, Navdeep Jaitly, Noam Shazeer. **Scheduled sampling for sequence prediction with recurrent Neural networks**. NIPS 2015 |
 | | | `Professor Forcing (GAN)`: Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, Yoshua Bengio. **Professor Forcing: A New Algorithm for Training Recurrent Networks**. NIPS 2016 |
 | | | `MIXER (REINFORCE)`: Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba. **Sequence Level Training with Recurrent Neural Networks**. ICLR 2016 |
+| | | `- Unsupervised learning` |
+| | | Guillaume Lample, Ludovic Denoyer, Marc'Aurelio Ranzato. **Unsupervised Machine Translation Using Monolingual Corpora Only**. ICLR 2018 |
+| | | Mikel Artetxe, Gorka Labaka, Eneko Agirre, Kyunghyun Cho. **Unsupervised Neural Machine Translation**. ICLR 2018 |
