@@ -24,13 +24,13 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `by learning Multi-lingual and combining Multi-task`: Thang Luong, Quoc Le, Ilya Sutskever, Oriol Vinyals, Lukasz Kaiser. **Multi-task sequence to sequence learning**. ICLR 2016 |
 | 22/03/2018 | Hoa | Hassan et al., **Achieving Human Parity on Automatic Chinese to English News Translation**. Microsoft research preprint 2018. [[Summary slides]]() |
 | | | `3 major components/techniques:` |
-| | | `Dual learning`: |
+| | | `- Dual learning:` |
 | | | `Dual unsupervised learning` He et al., **Dual Learning for Machine Translation**. NIPS 2016 |
 | | | `Dual supervised learning` Xia et al., **Dual Supervised Learning**. ICML 2017 |
-| | | `Joint training of S2T and T2S`: |
-| | | `Back translation`: Sennrich et al., **Improving Neural Machine Translation Models with Monolingual Data**. ACL 2016 |
-| | | `Joint training`: Zhang et al., **Joint Training for Neural Machine Translation Models with Monolingual Data**. AAAI 2018 |
-| | | `Deliberation Networks`: Xia et al., **Deliberation Networks: Sequence Generation Beyond One-Pass Decoding**. NIPS 2017 |
+| | | `- Joint training of S2T and T2S:` |
+| | | `Back translation` Sennrich et al., **Improving Neural Machine Translation Models with Monolingual Data**. ACL 2016 |
+| | | `Joint training` Zhang et al., **Joint Training for Neural Machine Translation Models with Monolingual Data**. AAAI 2018 |
+| | | `- Deliberation Networks` Xia et al., **Deliberation Networks: Sequence Generation Beyond One-Pass Decoding**. NIPS 2017 |
 | 29/03/2018 | | `Learning language representation with Autoencoders (AEs):` |
 | | | `(CNN-DCNN) Autoencoder (AE)`: Yizhe Zhang, Dinghan Shen, Guoyin Wang, Zhe Gan, Ricardo Henao, Lawrence Carin. **Deconvolutional Paragraph Representation Learning**. NIPS 2017 |
 | | | `(Sequential) Denoising Autoencoder (DAE)`: Felix Hill, Kyunghyun Cho, Anna Korhonen. **Learning Distributed Representations of Sentences from Unlabelled Data**. NAACL-HLT 2016 |
