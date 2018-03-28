@@ -22,7 +22,7 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `- On Data aspect` |
 | | | `by using Monolingual data`: Rico Sennrich, Barry Haddow, and Alexandra Birch. **Improving Neural Machine Translation Models with Monolingual Data**. ACL 2016 |
 | | | `by learning Multi-lingual and combining Multi-task`: Thang Luong, Quoc Le, Ilya Sutskever, Oriol Vinyals, Lukasz Kaiser. **Multi-task sequence to sequence learning**. ICLR 2016 |
-| 22/03/2018 | Hoa | Hassan et al., **Achieving Human Parity on Automatic Chinese to English News Translation**. Microsoft research preprint 2018. [[Summary slides]](https://docs.google.com/presentation/d/1AE4tFcBPa4AuMjeDS5TVUZE9AHPdSr6BCC5xz6KhxCU/edit?usp=sharing), [[Dual Learning summary (outside link)]](https://www.slideshare.net/torufujino/dual-learning-for-machine-translation) |
+| 22-29/03/2018 | Hoa | Hassan et al., **Achieving Human Parity on Automatic Chinese to English News Translation**. Microsoft research preprint 2018. [[Summary slides]](https://docs.google.com/presentation/d/1AE4tFcBPa4AuMjeDS5TVUZE9AHPdSr6BCC5xz6KhxCU/edit?usp=sharing), [[Dual Learning summary (outside link)]](https://www.slideshare.net/torufujino/dual-learning-for-machine-translation) |
 | | | `3 major components/techniques:` |
 | | | `- Dual learning:` |
 | | | `Dual unsupervised learning` He et al., **Dual Learning for Machine Translation**. NIPS 2016 |
@@ -32,14 +32,17 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `Back translation` Sennrich et al., **Improving Neural Machine Translation Models with Monolingual Data**. ACL 2016 |
 | | | `Joint training` Zhang et al., **Joint Training for Neural Machine Translation Models with Monolingual Data**. AAAI 2018 |
 | | | `- Deliberation Networks` Xia et al., **Deliberation Networks: Sequence Generation Beyond One-Pass Decoding**. NIPS 2017 |
-| 29/03/2018 | | `Learning language representation with Autoencoders (AEs):` |
+| 05/04/2018 | | `Learning language representation with Autoencoders (AEs):` |
 | | | `(CNN-DCNN) Autoencoder (AE)`: Yizhe Zhang, Dinghan Shen, Guoyin Wang, Zhe Gan, Ricardo Henao, Lawrence Carin. **Deconvolutional Paragraph Representation Learning**. NIPS 2017 |
 | | | `(Sequential) Denoising Autoencoder (DAE)`: Felix Hill, Kyunghyun Cho, Anna Korhonen. **Learning Distributed Representations of Sentences from Unlabelled Data**. NAACL-HLT 2016 |
 | | | `Variational Autoencoder (VAE)`: Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio. **Generating Sentences from a Continuous Space**. CoNLL 2016 |
 | | | `Adversarial Autoencoder (AAE)`: |
 | | | Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. **Adversarial Autoencoders**. ICLR 2016 |
 | | | Takeru Miyato, Andrew M. Dai, Ian Goodfellow. **Adversarial Training Methods for Semi-Supervised Text Classification**. ICLR 2017 |
-| 05/04/2018 | | `Neural Abstractive Text Summarization` |
+| 12/04/2018 | | `Purely unsupervised learning` |
+| | | Guillaume Lample, Ludovic Denoyer, Marc'Aurelio Ranzato. **Unsupervised Machine Translation Using Monolingual Corpora Only**. ICLR 2018 |
+| | | Mikel Artetxe, Gorka Labaka, Eneko Agirre, Kyunghyun Cho. **Unsupervised Neural Machine Translation**. ICLR 2018 |
+| 19/04/2018 | | `Neural Abstractive Text Summarization` |
 | | | `Deterministic vector:` |
 | | | Romain Paulus, Caiming Xiong, Richard Socher. **A Deep Reinforced Model for Abstractive Summarization**. Arxiv 2017 |
 | | | Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou. **Selective Encoding for Abstractive Sentence Summarization**. ACL 2017 |
@@ -47,7 +50,7 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `Stochastic vector:` |
 | | | Yishu Miao, Phil Blunsom. **Language as a Latent Variable: Discrete Generative Models for Sentence Compression**. EMNLP 2016 |
 | | | Piji Li, Wai Lam, Lidong Bing, Zihao Wang. **Deep Recurrent Generative Decoder for Abstractive Text Summarization**. EMNLP 2017 |
-| 12/04/2018 | | `Next frontiers of NMT:` |
+| 26/04/2018 | | `Next frontiers of NMT:` |
 | | | `- Larger context` |
 | | | `by Tracking states over time`: Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville, Yoshua Bengio. **A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues**. AAAI 2015 |
 | | | `- Mobile devices` |
@@ -56,6 +59,3 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `Scheduled sampling (Curriculum Learning)`: Samy Bengio, Oriol Vinyals, Navdeep Jaitly, Noam Shazeer. **Scheduled sampling for sequence prediction with recurrent Neural networks**. NIPS 2015 |
 | | | `Professor Forcing (GAN)`: Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, Yoshua Bengio. **Professor Forcing: A New Algorithm for Training Recurrent Networks**. NIPS 2016 |
 | | | `MIXER (REINFORCE)`: Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba. **Sequence Level Training with Recurrent Neural Networks**. ICLR 2016 |
-| | | `- Unsupervised learning` |
-| | | Guillaume Lample, Ludovic Denoyer, Marc'Aurelio Ranzato. **Unsupervised Machine Translation Using Monolingual Corpora Only**. ICLR 2018 |
-| | | Mikel Artetxe, Gorka Labaka, Eneko Agirre, Kyunghyun Cho. **Unsupervised Neural Machine Translation**. ICLR 2018 |
