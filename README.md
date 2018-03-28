@@ -7,7 +7,7 @@
 
 </p>
 
-Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](https://members.loria.fr/CGardent/). Location: Synalp team, Loria, France
+Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](https://members.loria.fr/CGardent/). Location: Synalp team, Laboratory Loria
 
 | Date | Presenter | Paper |
 |-------------|-------------|-----------------|
