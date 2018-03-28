@@ -1,4 +1,5 @@
-### Deep Learning and Natural Language Understanding Reading Group at Synalp team, Loria
+### Deep Learning and Natural Language Understanding Reading Group 
+*at Synalp team, Loria*
 
 <p>
   <img src="https://github.com/lethienhoa/Deep-Learning-and-Natural-Language-Understanding-Reading-Group/blob/master/logo_loria_abrege.jpg?raw=true?raw=true" width=120px />
