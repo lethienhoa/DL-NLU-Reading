@@ -4,7 +4,7 @@
 <p>
   <img src="https://github.com/lethienhoa/Deep-Learning-and-Natural-Language-Understanding-Reading-Group/blob/master/logo_loria_abrege.jpg?raw=true?raw=true" width=120px />
   
-  <img padding-left:10em src="https://github.com/lethienhoa/Deep-Learning-and-Natural-Language-Understanding-Reading-Group/blob/master/1200px-CNRS.svg.png?raw=true?raw=true" width=100px />
+  <img src="https://github.com/lethienhoa/Deep-Learning-and-Natural-Language-Understanding-Reading-Group/blob/master/1200px-CNRS.png?raw=true?raw=true" width=100px />
 
 </p>
 
