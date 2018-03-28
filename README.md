@@ -1,7 +1,8 @@
 ### Deep Learning and Natural Language Understanding Reading Group at Synalp team, Loria
 
 <p>
-  <img src="https://github.com/lethienhoa/Deep-Learning-and-Natural-Language-Understanding-Reading-Group/blob/master/1200px-CNRS.svg.png?raw=true?raw=true" width=200px />
+  <img src="https://github.com/lethienhoa/Deep-Learning-and-Natural-Language-Understanding-Reading-Group/blob/master/1200px-CNRS.svg.png?raw=true?raw=true" width=100px />
+  <img src="https://github.com/lethienhoa/Deep-Learning-and-Natural-Language-Understanding-Reading-Group/blob/master/logo_loria_abrege.jpg?raw=true?raw=true" width=100px />
 </p>
 
 Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](https://members.loria.fr/CGardent/)
