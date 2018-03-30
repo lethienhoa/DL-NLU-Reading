@@ -46,7 +46,8 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `Adversarial Autoencoder (AAE)`: |
 | | | Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. **Adversarial Autoencoders**. ICLR 2016 |
 | | | Takeru Miyato, Andrew M. Dai, Ian Goodfellow. **Adversarial Training Methods for Semi-Supervised Text Classification**. ICLR 2017 |
-| 12/04/2018 | | `Purely unsupervised learning` |
+| 12/04/2018 | Anastasia | `Text generation` *(to be updated)* |
+| 19/04/2018 | Denis | `Purely unsupervised learning` |
 | | | Guillaume Lample, Ludovic Denoyer, Marc'Aurelio Ranzato. **Unsupervised Machine Translation Using Monolingual Corpora Only**. ICLR 2018 |
 | | | Mikel Artetxe, Gorka Labaka, Eneko Agirre, Kyunghyun Cho. **Unsupervised Neural Machine Translation**. ICLR 2018 |
 | 19/04/2018 | | `Neural Abstractive Text Summarization` |
