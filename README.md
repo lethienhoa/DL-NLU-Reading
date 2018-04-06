@@ -50,7 +50,9 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | 26/04/2018 | Hoa | `Adversarial Autoencoder (AAE)`: |
 | | | Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. **Adversarial Autoencoders**. ICLR 2016 |
 | | | Takeru Miyato, Andrew M. Dai, Ian Goodfellow. **Adversarial Training Methods for Semi-Supervised Text Classification**. ICLR 2017 |
-| 03/05/2018 | | `Neural Abstractive Text Summarization` |
+| 03/05/2018 | | `Professor Forcing (GAN)`: Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, Yoshua Bengio. **Professor Forcing: A New Algorithm for Training Recurrent Networks**. NIPS 2016 |
+| 10/05/2018 | | `MIXER (REINFORCE)`: Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba. **Sequence Level Training with Recurrent Neural Networks**. ICLR 2016 |
+| 17/05/2018 | | `Neural Abstractive Text Summarization` |
 | | | `Deterministic vector:` |
 | | | Romain Paulus, Caiming Xiong, Richard Socher. **A Deep Reinforced Model for Abstractive Summarization**. Arxiv 2017 |
 | | | Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou. **Selective Encoding for Abstractive Sentence Summarization**. ACL 2017 |
@@ -65,5 +67,4 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `by Knowledge Distillation`: Yoon Kim, Alexander M. Rush. **Sequence-level knowledge distillation**. EMNLP 2016 |
 | | | `- Beyond Maximum Likelihood` |
 | | | `Scheduled sampling (Curriculum Learning)`: Samy Bengio, Oriol Vinyals, Navdeep Jaitly, Noam Shazeer. **Scheduled sampling for sequence prediction with recurrent Neural networks**. NIPS 2015 |
-| | | `Professor Forcing (GAN)`: Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, Yoshua Bengio. **Professor Forcing: A New Algorithm for Training Recurrent Networks**. NIPS 2016 |
-| | | `MIXER (REINFORCE)`: Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba. **Sequence Level Training with Recurrent Neural Networks**. ICLR 2016 |
+
