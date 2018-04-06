@@ -50,8 +50,8 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | 26/04/2018 | Hoa | `Adversarial Autoencoder (AAE)`: |
 | | | Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. **Adversarial Autoencoders**. ICLR 2016 |
 | | | Takeru Miyato, Andrew M. Dai, Ian Goodfellow. **Adversarial Training Methods for Semi-Supervised Text Classification**. ICLR 2017 |
-| 03/05/2018 | | `Professor Forcing (GAN)`: Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, Yoshua Bengio. **Professor Forcing: A New Algorithm for Training Recurrent Networks**. NIPS 2016 |
-| 10/05/2018 | | `MIXER (REINFORCE)`: Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba. **Sequence Level Training with Recurrent Neural Networks**. ICLR 2016 |
+| 03/05/2018 | Hoa | `Professor Forcing (GAN)`: Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, Yoshua Bengio. **Professor Forcing: A New Algorithm for Training Recurrent Networks**. NIPS 2016 |
+| 10/05/2018 | Hoa | `MIXER (REINFORCE)`: Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba. **Sequence Level Training with Recurrent Neural Networks**. ICLR 2016 |
 | 17/05/2018 | | `Neural Abstractive Text Summarization` |
 | | | `Deterministic vector:` |
 | | | Romain Paulus, Caiming Xiong, Richard Socher. **A Deep Reinforced Model for Abstractive Summarization**. Arxiv 2017 |
@@ -60,7 +60,7 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `Stochastic vector:` |
 | | | Yishu Miao, Phil Blunsom. **Language as a Latent Variable: Discrete Generative Models for Sentence Compression**. EMNLP 2016 |
 | | | Piji Li, Wai Lam, Lidong Bing, Zihao Wang. **Deep Recurrent Generative Decoder for Abstractive Text Summarization**. EMNLP 2017 |
-| 10/05/2018 | | `Next frontiers of NMT:` |
+| 24/05/2018 | | `Next frontiers of NMT:` |
 | | | `- Larger context` |
 | | | `by Tracking states over time`: Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville, Yoshua Bengio. **A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues**. AAAI 2015 |
 | | | `- Mobile devices` |
