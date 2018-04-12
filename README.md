@@ -43,7 +43,7 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `(CNN-DCNN) Autoencoder (AE)`: Yizhe Zhang, Dinghan Shen, Guoyin Wang, Zhe Gan, Ricardo Henao, Lawrence Carin. **Deconvolutional Paragraph Representation Learning**. NIPS 2017 |
 | | | `(Sequential) Denoising Autoencoder (DAE)`: Felix Hill, Kyunghyun Cho, Anna Korhonen. **Learning Distributed Representations of Sentences from Unlabelled Data**. NAACL-HLT 2016 |
 | | | `Variational Autoencoder (VAE)`: Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio. **Generating Sentences from a Continuous Space**. CoNLL 2016 |
-| 12/04/2018 | Anastasia | `Data-to-Text generation:` Albert Gatt and Emiel Krahmer. **Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation**. Journal of Artificial Intelligence Research 2018|
+| 12/04/2018 | Anastasia | `Data-to-Text generation:` Albert Gatt and Emiel Krahmer. **Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation**. Journal of Artificial Intelligence Research 2018. [[Summary slides]](https://drive.google.com/file/d/1mxALI9I-oF6yGieGkIbtFzI3uTZ2e4vT/view?usp=sharing)|
 | 19/04/2018 | Denis | `Purely unsupervised machine translation` |
 | | | Guillaume Lample, Ludovic Denoyer, Marc'Aurelio Ranzato. **Unsupervised Machine Translation Using Monolingual Corpora Only**. ICLR 2018 |
 | | | Mikel Artetxe, Gorka Labaka, Eneko Agirre, Kyunghyun Cho. **Unsupervised Neural Machine Translation**. ICLR 2018 |
