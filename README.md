@@ -44,19 +44,19 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `(Sequential) Denoising Autoencoder (DAE)`: Felix Hill, Kyunghyun Cho, Anna Korhonen. **Learning Distributed Representations of Sentences from Unlabelled Data**. NAACL-HLT 2016 |
 | | | `Variational Autoencoder (VAE)`: Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio. **Generating Sentences from a Continuous Space**. CoNLL 2016 |
 | 12/04/2018 | Anastasia | `Data-to-Text generation:` Albert Gatt and Emiel Krahmer. **Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation**. Journal of Artificial Intelligence Research 2018. [[Summary slides]](https://drive.google.com/file/d/1mxALI9I-oF6yGieGkIbtFzI3uTZ2e4vT/view?usp=sharing)|
-| 19/04/2018 | Denis | `Purely unsupervised machine translation` |
-| | | Guillaume Lample, Ludovic Denoyer, Marc'Aurelio Ranzato. **Unsupervised Machine Translation Using Monolingual Corpora Only**. ICLR 2018 |
-| | | Mikel Artetxe, Gorka Labaka, Eneko Agirre, Kyunghyun Cho. **Unsupervised Neural Machine Translation**. ICLR 2018 |
-| 26/04/2018 | Hoa | `GAN & AAE`: |
-| | | `Generative Adversarial Networks (GAN)`: |
+| 19/04/2018 | Hoa | `Generative Adversarial Networks (GAN)`: |
 | | | Goodfellow et al., **Generative Adversarial Networks**. NIPS 2014 |
 | | | Ian Goodfellow. **NIPS 2016 Tutorial: Generative Adversarial Networks**. Arxiv 2017 |
-| | | `Adversarial Autoencoder (AAE)`: |
-| | | Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. **Adversarial Autoencoders**. ICLR 2016 |
-| | | Takeru Miyato, Andrew M. Dai, Ian Goodfellow. **Adversarial Training Methods for Semi-Supervised Text Classification**. ICLR 2017 |
+| 26/04/2018 | Hoa | `Adversarial Autoencoder (AAE)`: Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. **Adversarial Autoencoders**. ICLR 2016 |
 | 03/05/2018 | Hoa | `Professor Forcing (GAN)`: Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, Yoshua Bengio. **Professor Forcing: A New Algorithm for Training Recurrent Networks**. NIPS 2016 |
-| 10/05/2018 | Hoa | `MIXER (REINFORCE)`: Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba. **Sequence Level Training with Recurrent Neural Networks**. ICLR 2016 |
-| 17/05/2018 | | `Neural Abstractive Text Summarization` |
+| 10/05/2018 | Denis | `Purely unsupervised machine translation` |
+| | | Guillaume Lample, Ludovic Denoyer, Marc'Aurelio Ranzato. **Unsupervised Machine Translation Using Monolingual Corpora Only**. ICLR 2018 |
+| | | Mikel Artetxe, Gorka Labaka, Eneko Agirre, Kyunghyun Cho. **Unsupervised Neural Machine Translation**. ICLR 2018 |
+| 17/05/2018 | Hoa | `RL in Machine Translation`: |
+| | | `MIXER (REINFORCE)`: Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba. **Sequence Level Training with Recurrent Neural Networks**. ICLR 2016 |
+| | | `Bandit and Advantage Actor-Critic`: Nguyen et al., **Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback**. EMNLP 2017 |
+| | | `SeqGAN (Policy Gradient + GAN + Monte Carlo search)`: Yu et al., **SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient**. AAAI 2017 |
+| | | `Neural Abstractive Text Summarization` |
 | | | `Deterministic vector:` |
 | | | Romain Paulus, Caiming Xiong, Richard Socher. **A Deep Reinforced Model for Abstractive Summarization**. Arxiv 2017 |
 | | | Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou. **Selective Encoding for Abstractive Sentence Summarization**. ACL 2017 |
@@ -64,7 +64,7 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `Stochastic vector:` |
 | | | Yishu Miao, Phil Blunsom. **Language as a Latent Variable: Discrete Generative Models for Sentence Compression**. EMNLP 2016 |
 | | | Piji Li, Wai Lam, Lidong Bing, Zihao Wang. **Deep Recurrent Generative Decoder for Abstractive Text Summarization**. EMNLP 2017 |
-| 24/05/2018 | | `Next frontiers of NMT:` |
+| | | `Next frontiers of NMT:` |
 | | | `- Larger context` |
 | | | `by Tracking states over time`: Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville, Yoshua Bengio. **A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues**. AAAI 2015 |
 | | | `- Mobile devices` |
