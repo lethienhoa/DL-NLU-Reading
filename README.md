@@ -39,12 +39,12 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `Back translation` Sennrich et al., **Improving Neural Machine Translation Models with Monolingual Data**. ACL 2016 |
 | | | `Joint training` Zhang et al., **Joint Training for Neural Machine Translation Models with Monolingual Data**. AAAI 2018 |
 | | | `- Deliberation Networks` Xia et al., **Deliberation Networks: Sequence Generation Beyond One-Pass Decoding**. NIPS 2017 |
-| 05/04/2018 | Hoa | `Learning language representation with Autoencoders (AEs):` |
+| 05/04/2018 | Hoa | `Learning language representation with Autoencoders (AEs):` [[Slides]](https://drive.google.com/open?id=1ABLaoyHYFiWU7BF4ajZHbG-XWwpVr0gMggFl1muQhgA)|
 | | | `(CNN-DCNN) Autoencoder (AE)`: Yizhe Zhang, Dinghan Shen, Guoyin Wang, Zhe Gan, Ricardo Henao, Lawrence Carin. **Deconvolutional Paragraph Representation Learning**. NIPS 2017 |
 | | | `(Sequential) Denoising Autoencoder (DAE)`: Felix Hill, Kyunghyun Cho, Anna Korhonen. **Learning Distributed Representations of Sentences from Unlabelled Data**. NAACL-HLT 2016 |
 | | | `Variational Autoencoder (VAE)`: Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio. **Generating Sentences from a Continuous Space**. CoNLL 2016 |
 | 12/04/2018 | Anastasia | `Data-to-Text generation:` Albert Gatt and Emiel Krahmer. **Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation**. Journal of Artificial Intelligence Research 2018. [[Summary slides]](https://drive.google.com/file/d/1mxALI9I-oF6yGieGkIbtFzI3uTZ2e4vT/view?usp=sharing)|
-| 19/04/2018 | Hoa | `Generative Adversarial Networks (GAN)`: |
+| 19/04/2018 | Hoa | `Generative Adversarial Networks (GAN)`: [[Slides]]()|
 | | | Goodfellow et al., **Generative Adversarial Networks**. NIPS 2014 |
 | | | Ian Goodfellow. **NIPS 2016 Tutorial: Generative Adversarial Networks**. Arxiv 2017 |
 | 26/04/2018 | Hoa | `Adversarial Autoencoder (AAE)`: Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. **Adversarial Autoencoders**. ICLR 2016 |
