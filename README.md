@@ -44,7 +44,7 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | `(Sequential) Denoising Autoencoder (DAE)`: Felix Hill, Kyunghyun Cho, Anna Korhonen. **Learning Distributed Representations of Sentences from Unlabelled Data**. NAACL-HLT 2016 |
 | | | `Variational Autoencoder (VAE)`: Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio. **Generating Sentences from a Continuous Space**. CoNLL 2016 |
 | 12/04/2018 | Anastasia | `Data-to-Text generation:` Albert Gatt and Emiel Krahmer. **Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation**. Journal of Artificial Intelligence Research 2018. [[Summary slides]](https://drive.google.com/file/d/1mxALI9I-oF6yGieGkIbtFzI3uTZ2e4vT/view?usp=sharing)|
-| 19/04/2018 | Hoa | `Generative Adversarial Networks (GAN)`: [[Slides]]()|
+| 19/04/2018 | Hoa | `Generative Adversarial Networks (GAN)`: [[External Slides]](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture13.pdf), [[Supplementaries]](https://docs.google.com/presentation/d/1X1Wk5YD_ZAWU8meZxN7MGevevRxrm1-ZHagwZuH2bg0/edit?usp=sharing)|
 | | | Goodfellow et al., **Generative Adversarial Networks**. NIPS 2014 |
 | | | Ian Goodfellow. **NIPS 2016 Tutorial: Generative Adversarial Networks**. Arxiv 2017 |
 | 26/04/2018 | Hoa | `Adversarial Autoencoder (AAE)`: Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. **Adversarial Autoencoders**. ICLR 2016 |
