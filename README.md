@@ -49,10 +49,13 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | Ian Goodfellow. **NIPS 2016 Tutorial: Generative Adversarial Networks**. Arxiv 2017 |
 | 26/04/2018 | Hoa | `Adversarial Autoencoder (AAE)`: Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. **Adversarial Autoencoders**. ICLR 2016 |
 | 03/05/2018 | Hoa | `Professor Forcing (GAN)`: Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, Yoshua Bengio. **Professor Forcing: A New Algorithm for Training Recurrent Networks**. NIPS 2016 |
-| 10/05/2018 | Denis | `Purely unsupervised machine translation` |
+| 10/05/2018 | Denis | `Purely unsupervised machine translation (1)` |
 | | | Guillaume Lample, Ludovic Denoyer, Marc'Aurelio Ranzato. **Unsupervised Machine Translation Using Monolingual Corpora Only**. ICLR 2018 |
 | | | Mikel Artetxe, Gorka Labaka, Eneko Agirre, Kyunghyun Cho. **Unsupervised Neural Machine Translation**. ICLR 2018 |
-| 17/05/2018 | Hoa | `RL in Machine Translation`: |
+| 17/05/2018 | Hoa | `Purely unsupervised machine translation (2)` |
+| | | Lample et al., **Phrase-Based & Neural Unsupervised Machine Translation**. Arxiv 2018 |
+| | | Conneau et al., **Word Translation Without Parallel Data**. ICLR 2018 |
+| | Hoa | `RL in Machine Translation`: |
 | | | `MIXER (REINFORCE)`: Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba. **Sequence Level Training with Recurrent Neural Networks**. ICLR 2016 |
 | | | `Bandit and Advantage Actor-Critic`: Nguyen et al., **Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback**. EMNLP 2017 |
 | | | `SeqGAN (Policy Gradient + GAN + Monte Carlo search)`: Yu et al., **SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient**. AAAI 2017 |
