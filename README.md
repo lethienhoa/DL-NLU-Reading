@@ -47,7 +47,7 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | 19/04/2018 | Hoa | `Generative Adversarial Networks (GAN)`: [[External Slides]](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture13.pdf), [[Supplementaries]](https://docs.google.com/presentation/d/1X1Wk5YD_ZAWU8meZxN7MGevevRxrm1-ZHagwZuH2bg0/edit?usp=sharing)|
 | | | Goodfellow et al., **Generative Adversarial Networks**. NIPS 2014 |
 | | | Ian Goodfellow. **NIPS 2016 Tutorial: Generative Adversarial Networks**. Arxiv 2017 |
-| 26/04/2018 | Hoa | `Adversarial Autoencoder (AAE)`: Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. **Adversarial Autoencoders**. ICLR 2016 |
+| 26/04/2018 | Hoa | `Adversarial Autoencoder (AAE)`: Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. **Adversarial Autoencoders**. ICLR 2016 [[External Slides]](https://duvenaud.github.io/learn-discrete/slides/AdversarialAutoencoders.pdf), [[Supplementaries]](https://drive.google.com/open?id=1eauIsxVvlkqMXI2wzb3r61szEsu_1D4gTE5lFyWwLcI)||
 | 03/05/2018 | Hoa | `Professor Forcing (GAN)`: Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, Yoshua Bengio. **Professor Forcing: A New Algorithm for Training Recurrent Networks**. NIPS 2016 |
 | 10/05/2018 | Denis | `Purely unsupervised machine translation (1)` |
 | | | Guillaume Lample, Ludovic Denoyer, Marc'Aurelio Ranzato. **Unsupervised Machine Translation Using Monolingual Corpora Only**. ICLR 2018 |
