@@ -50,10 +50,11 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | 26/04/2018 | Hoa | `Adversarial Autoencoder (AAE)`: Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. **Adversarial Autoencoders**. ICLR 2016 [[External Slides]](https://duvenaud.github.io/learn-discrete/slides/AdversarialAutoencoders.pdf), [[Supplementaries]](https://drive.google.com/open?id=1eauIsxVvlkqMXI2wzb3r61szEsu_1D4gTE5lFyWwLcI)||
 | 03/05/2018 | Hoa | [Variants of seq2seq models in PyTorch & Tensorflow (practical)](https://docs.google.com/presentation/d/1w7Lqd_tPL_HFsmcPJFOvRa5MWwbvEIRFSr10HIhE_k4/edit?usp=sharing) |
 | 10/05/2018 | Hoa | `Professor Forcing (GAN)`: Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, Yoshua Bengio. **Professor Forcing: A New Algorithm for Training Recurrent Networks**. NIPS 2016 |
-| | | [Basic and advanced dynamic RNN in Tensorflow + optimizing GPU utilization]() |
+| | | `Scheduled Sampling (Curriculum Learning)`: Samy Bengio, Oriol Vinyals, Navdeep Jaitly, Noam Shazeer. **Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks**. NIPS 2015 |
 | 17/05/2018 | Denis | `Purely unsupervised machine translation (1)` |
 | | | Guillaume Lample, Ludovic Denoyer, Marc'Aurelio Ranzato. **Unsupervised Machine Translation Using Monolingual Corpora Only**. ICLR 2018 |
 | | | Mikel Artetxe, Gorka Labaka, Eneko Agirre, Kyunghyun Cho. **Unsupervised Neural Machine Translation**. ICLR 2018 |
+| | | [Basic and advanced dynamic RNN in Tensorflow + optimizing GPU utilization]() |
 | 24/05/2018 | Hoa | `Purely unsupervised machine translation (2)` |
 | | | Lample et al., **Phrase-Based & Neural Unsupervised Machine Translation**. Arxiv 2018 |
 | | | Conneau et al., **Word Translation Without Parallel Data**. ICLR 2018 |
