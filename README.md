@@ -52,6 +52,7 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | 10/05/2018 | Hoa | `Professor Forcing (GAN)` and `Scheduled Sampling (Curriculum Learning)`: |
 | | | Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, Yoshua Bengio. **Professor Forcing: A New Algorithm for Training Recurrent Networks**. NIPS 2016 |
 | | | Samy Bengio, Oriol Vinyals, Navdeep Jaitly, Noam Shazeer. **Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks**. NIPS 2015 |
+| | | Ferenc Huszar. **How (not) to Train your Generative Model: Scheduled Sampling, Likelihood, Adversary?**. Arxiv 2015 |
 | 17/05/2018 | Denis | `Purely unsupervised machine translation (1)` |
 | | | Guillaume Lample, Ludovic Denoyer, Marc'Aurelio Ranzato. **Unsupervised Machine Translation Using Monolingual Corpora Only**. ICLR 2018 |
 | | | Mikel Artetxe, Gorka Labaka, Eneko Agirre, Kyunghyun Cho. **Unsupervised Neural Machine Translation**. ICLR 2018 |
