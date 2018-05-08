@@ -60,6 +60,7 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | 24/05/2018 | Hoa | `Purely unsupervised machine translation (2)` |
 | | | Lample et al., **Phrase-Based & Neural Unsupervised Machine Translation**. Arxiv 2018 |
 | | | Conneau et al., **Word Translation Without Parallel Data**. ICLR 2018 |
+| 31/05/2018 | Hoa | Ganin et al., **Domain-Adversarial Training of Neural Networks**. JMLR 2016 |
 | | Hoa | `RL in Machine Translation`: |
 | | | `MIXER (REINFORCE)`: Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba. **Sequence Level Training with Recurrent Neural Networks**. ICLR 2016 |
 | | | `Bandit and Advantage Actor-Critic`: Nguyen et al., **Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback**. EMNLP 2017 |
