@@ -56,7 +56,7 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | 17/05/2018 | Denis | `Purely unsupervised machine translation (1)` |
 | | | Guillaume Lample, Ludovic Denoyer, Marc'Aurelio Ranzato. **Unsupervised Machine Translation Using Monolingual Corpora Only**. ICLR 2018 |
 | | | Mikel Artetxe, Gorka Labaka, Eneko Agirre, Kyunghyun Cho. **Unsupervised Neural Machine Translation**. ICLR 2018 |
-| | | [Basic and advanced dynamic RNN in Tensorflow + optimizing GPU utilization](https://docs.google.com/presentation/d/1KF19_T7e0vo53fcGFo-v5yOKIDYfBGz9aNBxSTrkNN0/edit?usp=sharing) |
+| | | [Static & Dynamic RNN in Tensorflow](https://docs.google.com/presentation/d/1KF19_T7e0vo53fcGFo-v5yOKIDYfBGz9aNBxSTrkNN0/edit?usp=sharing) |
 | 07/06/2018 | Hoa | `Purely unsupervised machine translation (2)` |
 | | | Lample et al., **Phrase-Based & Neural Unsupervised Machine Translation**. Arxiv 2018 |
 | | | Conneau et al., **Word Translation Without Parallel Data**. ICLR 2018 |
