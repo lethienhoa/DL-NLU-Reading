@@ -53,7 +53,7 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, Yoshua Bengio. **Professor Forcing: A New Algorithm for Training Recurrent Networks**. NIPS 2016 |
 | | | Samy Bengio, Oriol Vinyals, Navdeep Jaitly, Noam Shazeer. **Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks**. NIPS 2015 |
 | | | Ferenc Huszar. **How (not) to Train your Generative Model: Scheduled Sampling, Likelihood, Adversary?**. Arxiv 2015 |
-| 17/05/2018 | Denis | `Purely unsupervised machine translation (1)` |
+| 17/05/2018 | Denis | `Purely unsupervised machine translation (1)` [Slides](https://drive.google.com/open?id=1vFZQMl1j_xWVhD3wz-NViYMdPujFFvrY) |
 | | | Guillaume Lample, Ludovic Denoyer, Marc'Aurelio Ranzato. **Unsupervised Machine Translation Using Monolingual Corpora Only**. ICLR 2018 |
 | | | Mikel Artetxe, Gorka Labaka, Eneko Agirre, Kyunghyun Cho. **Unsupervised Neural Machine Translation**. ICLR 2018 |
 | | Hoa | [Static & Dynamic RNN in Tensorflow (practical)](https://docs.google.com/presentation/d/1KF19_T7e0vo53fcGFo-v5yOKIDYfBGz9aNBxSTrkNN0/edit?usp=sharing) |
