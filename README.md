@@ -62,23 +62,3 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | Lample et al., **Phrase-Based & Neural Unsupervised Machine Translation**. Arxiv 2018 |
 | | | Conneau et al., **Word Translation Without Parallel Data**. ICLR 2018 |
 | 14/06/2018 | Hoa | Ganin et al., **Domain-Adversarial Training of Neural Networks**. JMLR 2016 |
-| | Hoa | `RL in Machine Translation`: |
-| | | `MIXER (REINFORCE)`: Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba. **Sequence Level Training with Recurrent Neural Networks**. ICLR 2016 |
-| | | `Bandit and Advantage Actor-Critic`: Nguyen et al., **Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback**. EMNLP 2017 |
-| | | `SeqGAN (Policy Gradient + GAN + Monte Carlo search)`: Yu et al., **SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient**. AAAI 2017 |
-| | Hoa | `Neural Abstractive Text Summarization` |
-| | | `Deterministic vector:` |
-| | | Romain Paulus, Caiming Xiong, Richard Socher. **A Deep Reinforced Model for Abstractive Summarization**. Arxiv 2017 |
-| | | Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou. **Selective Encoding for Abstractive Sentence Summarization**. ACL 2017 |
-| | | Noah Weber, Leena Shekhar, Niranjan Balasubramanian, Kyunghyun Cho. **Controlling Decoding for More Abstractive Summaries with Copy-Based Networks**. Arxiv 2018 |
-| | | `Stochastic vector:` |
-| | | Yishu Miao, Phil Blunsom. **Language as a Latent Variable: Discrete Generative Models for Sentence Compression**. EMNLP 2016 |
-| | | Piji Li, Wai Lam, Lidong Bing, Zihao Wang. **Deep Recurrent Generative Decoder for Abstractive Text Summarization**. EMNLP 2017 |
-| | Hoa | `Next frontiers of NMT:` |
-| | | `- Larger context` |
-| | | `by Tracking states over time`: Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville, Yoshua Bengio. **A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues**. AAAI 2015 |
-| | | `- Mobile devices` |
-| | | `by Knowledge Distillation`: Yoon Kim, Alexander M. Rush. **Sequence-level knowledge distillation**. EMNLP 2016 |
-| | | `- Beyond Maximum Likelihood` |
-| | | `Scheduled sampling (Curriculum Learning)`: Samy Bengio, Oriol Vinyals, Navdeep Jaitly, Noam Shazeer. **Scheduled sampling for sequence prediction with recurrent Neural networks**. NIPS 2015 |
-
