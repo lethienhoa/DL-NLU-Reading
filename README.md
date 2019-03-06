@@ -63,3 +63,4 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | Conneau et al., **Word Translation Without Parallel Data**. ICLR 2018 |
 | 14/06/2018 | Hoa | Ganin et al., **Domain-Adversarial Training of Neural Networks**. JMLR 2016 |
 | 17/12/2018 | Hoa | [RL for sequence prediction litterature](https://docs.google.com/document/d/1Ywulq-tU7z_dGaTcsKLhjo1-SWATV80fDW6RKDoq9Ho/edit?usp=sharing) |
+| 27/03/2019 | Hoa | [Graph Neural Networks litterature]() |
