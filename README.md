@@ -69,6 +69,6 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 Team meeting presentation:
 
 | Date | Topic |
-|-------------|-------------|-----------------|
+|-------------|-------------|
 | 21/03/2019 | [How much can Syntax help Sentence Compression ?](https://docs.google.com/presentation/d/1HmatfiVzJDRMhrLXJQPDVdX60NahDYpMDjwA5RVXm0g/edit?usp=sharing) |
 | 5/4/2019 | [Delete-and-Paraphrase](https://docs.google.com/presentation/d/13D1HGSply_PowQDfqd4-aLQD5h9uHsQGZlK-5HyMlFg/edit?usp=sharing) |
