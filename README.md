@@ -65,3 +65,10 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | Hoa | [Faithfulness/Correctness in Abstractive Summarization](https://docs.google.com/document/d/1oq6BCMiyCZwGaz3uawkD60gdcfd0pib1nAnZRoQaV4Q/edit?usp=sharing) |
 | 17/12/2018 | Hoa | [RL for sequence prediction litterature](https://docs.google.com/document/d/1Ywulq-tU7z_dGaTcsKLhjo1-SWATV80fDW6RKDoq9Ho/edit?usp=sharing) |
 | 27/03/2019 | Hoa | [Graph Neural Networks litterature](https://docs.google.com/document/d/1guls60e_YZid-hT_Evqkp-5vNQ6Ujn0oxjvQtMq3C5c/edit?usp=sharing) [(Slides)](https://docs.google.com/presentation/d/1R7wlD8yYmvEuJc0ALfat04vK4ER9mS7aFAak8gzruyY/edit?usp=sharing) |
+
+Team meeting presentation:
+
+| Date | Topic |
+|-------------|-------------|-----------------|
+| 21/03/2019 | [How much can Syntax help Sentence Compression ?](https://docs.google.com/presentation/d/1HmatfiVzJDRMhrLXJQPDVdX60NahDYpMDjwA5RVXm0g/edit?usp=sharing) |
+| 5/4/2019 | [Delete-and-Paraphrase](https://docs.google.com/presentation/d/13D1HGSply_PowQDfqd4-aLQD5h9uHsQGZlK-5HyMlFg/edit?usp=sharing) |
