@@ -63,6 +63,9 @@ Presenters: [Hoa Le](https://lethienhoablog.wordpress.com/), [Claire Gardent](ht
 | | | Conneau et al., **Word Translation Without Parallel Data**. ICLR 2018 |
 | 14/06/2018 | Hoa | Ganin et al., **Domain-Adversarial Training of Neural Networks**. JMLR 2016 |
 | | Hoa | [Faithfulness/Correctness in Abstractive Summarization](https://docs.google.com/document/d/1oq6BCMiyCZwGaz3uawkD60gdcfd0pib1nAnZRoQaV4Q/edit?usp=sharing) |
+| | | [Large-scale Text Summarization: Datasets - Problems - Techniques](https://docs.google.com/document/d/1OCE6AwcPj8RwKcLpWj89Fl98a-vXkFzQbk0VoJ5j-a8/edit?usp=sharing) |
+| | | [Table-to-text Generation](https://docs.google.com/document/d/1VluZMr5XLhuFF-7yXbxYWsN9HefPHzBxR3hEU6vl73A/edit?usp=sharing) |
+| | | [Recent Trends of Summarization with Sentiment Based](https://docs.google.com/document/d/1OM8sGjcUz2rbFr5tgc65qkXbAL_dlXTeKE8o058JfuA/edit?usp=sharing) |
 | 17/12/2018 | Hoa | [RL for sequence prediction litterature](https://docs.google.com/document/d/1Ywulq-tU7z_dGaTcsKLhjo1-SWATV80fDW6RKDoq9Ho/edit?usp=sharing) [(Slides)](https://drive.google.com/open?id=1NVhfUt3teT8Bl5Ni5VuKLdUNTBYuj5VXU5K0x0jCDLk) |
 | 27/03/2019 | Hoa | [Graph Neural Networks litterature](https://docs.google.com/document/d/1guls60e_YZid-hT_Evqkp-5vNQ6Ujn0oxjvQtMq3C5c/edit?usp=sharing) [(Slides)](https://docs.google.com/presentation/d/1R7wlD8yYmvEuJc0ALfat04vK4ER9mS7aFAak8gzruyY/edit?usp=sharing) |
 
