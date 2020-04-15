@@ -80,3 +80,4 @@ Other documents:
 - [Large-scale Text Summarization: Datasets - Problems - Techniques](https://docs.google.com/document/d/1OCE6AwcPj8RwKcLpWj89Fl98a-vXkFzQbk0VoJ5j-a8/edit?usp=sharing)
 - [Table-to-text Generation](https://docs.google.com/document/d/1VluZMr5XLhuFF-7yXbxYWsN9HefPHzBxR3hEU6vl73A/edit?usp=sharing)
 - [Recent Trends of Summarization with Sentiment Based](https://docs.google.com/document/d/1OM8sGjcUz2rbFr5tgc65qkXbAL_dlXTeKE8o058JfuA/edit?usp=sharing)
+- [Bayesian Optimization for Automated Hyperparameter Tuning](https://docs.google.com/document/d/1mZUihewQMOrFKrzF7izIr0PD6RWmMwyfOwJyyMin8js/edit?usp=sharing)
